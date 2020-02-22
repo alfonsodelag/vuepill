@@ -1,0 +1,26 @@
+{
+  "name": "vuepill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfonsodelag/vuepill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfonsodelag/vuepill/issues"
+  },
+  "homepage": "https://github.com/alfonsodelag/vuepill#readme",
+  "devDependencies": {
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
