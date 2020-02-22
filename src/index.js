@@ -1,5 +1,7 @@
 import Vue from 'vue';
 
+
+
 const URL = 'https://jsonplaceholder.typicode.com/photos';
 
 new Vue ({
