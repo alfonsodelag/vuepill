@@ -5,6 +5,7 @@
       <li v-for="photo in photos" v-bind:key="photo.id">
         <img :src=photo.url>
       </li>
+      <p>Styled with a little sass</p>
     </ul>
     </div>
 
@@ -66,5 +67,11 @@ export default {
     }
   }
 }
-
 </script>
+
+<style lang="sass">
+body{
+    background: blue;
+}
+</style>
+
